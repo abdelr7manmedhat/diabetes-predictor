@@ -4,7 +4,7 @@ A simple Flask web app that predicts whether a person is likely to have diabetes
 
 ---
 
-##Dataset
+## Dataset
 The dataset used is named `kaggle_diabetes.csv`.
 
 **Source**: Local file `kaggle_diabetes.csv`
