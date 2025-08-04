@@ -4,9 +4,10 @@ A simple Flask web app that predicts whether a person is likely to have diabetes
 
 ---
 
-## Dataset
+##Dataset
+The dataset used is named `kaggle_diabetes.csv`.
 
-- Source: [Kaggle - Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+**Source**: Local file `kaggle_diabetes.csv`
 - Features used:
   - Pregnancies
   - Glucose
